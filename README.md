@@ -27,7 +27,7 @@ require('assert-fs')(assert);
 ## API
 
 * [assert.exists](#assertexists)
-* [assert.existsSync](#assertexistsSync)
+* [assert.existsSync](#assertexistssync)
 
 ### assert.exists
 
